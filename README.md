@@ -1,4 +1,4 @@
-# 🖥️ Deploy App on EC2
+# Deploy App on EC2
 
 Deploy a web application on Amazon EC2 instances.
 
@@ -8,7 +8,7 @@ This is a hands-on workshop from the **AWS First Cloud Journey** series, designe
 
 ## Workshop
 
-📖 **[Start the workshop](https://vanhoangkha.github.io/000004-DeployApponEC2/)**
+**[Start the workshop](https://vanhoangkha.github.io/000004-DeployApponEC2/)**
 
 ## Prerequisites
 
